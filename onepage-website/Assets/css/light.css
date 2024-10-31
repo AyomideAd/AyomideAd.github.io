@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+    color: black;
+}
+#topGrey {
+    border: transparent;
+    margin-top: 36px;
+}
+#topGreyBottom {
+    background-color: transparent;
+    margin-top: -70px;
+    padding: 0px;
+}
+
+.fa-sun {
+    color: orange;
+}
+
+.fa-moon {
+    visibility: hidden;
+}
